@@ -2,6 +2,7 @@
   <MDBContainer>
     <NavComponent />
     <HeroComponent />
+    <PartnersComponents />
     <MockupComponent />
     <WhyChoose />
     <AppPreview />
@@ -19,6 +20,7 @@ import MockupComponent from "./MockupComponent.vue";
 import WhyChoose from "./WhyChoose.vue";
 import AppPreview from "./AppPreview.vue";
 import FaqComponent from "./FaqComponent.vue";
+import PartnersComponents from "./PartnersComponents.vue";
 
 defineProps<{ msg: string }>();
 </script>

@@ -17,7 +17,7 @@
                     </div>
                 </div>
                 <div class="service_img">
-                    <img class="img_responsive" src="../assets/img2.svg" alt="">
+                    <img class="img_responsive" src="../assets/img1.svg" alt="">
 
                 </div>
             </div>
@@ -52,6 +52,39 @@
                 </div>
                 <div class="service_img">
                     <img class="img_responsive" src="../assets/img3.svg" alt="">
+
+                </div>
+            </div>
+        </MDBContainer>
+        <MDBContainer class="">
+            <div class="container service_info">
+                <div class="service_img">
+                    <img class="img_responsive" src="../assets/img4.svg" alt="">
+
+                </div>
+
+                <div class=" write_up">
+                    <img src="../assets/icon_1.svg" alt="">
+                    <div>
+                        <h4>Lorem ipsum dolor sit amet</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur. Scelerisque lorem id nisl augue sem amet vestibulum.
+                            Dignissim consequat nec mus a lectus. Imperdiet fusce nunc sapien gravida.</p>
+                    </div>
+                </div>
+            </div>
+        </MDBContainer>
+        <MDBContainer class="">
+            <div class="container service_info">
+                <div class=" write_up">
+                    <img src="../assets/icon_1.svg" alt="">
+                    <div>
+                        <h4>Lorem ipsum dolor sit amet</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur. Scelerisque lorem id nisl augue sem amet vestibulum.
+                            Dignissim consequat nec mus a lectus. Imperdiet fusce nunc sapien gravida.</p>
+                    </div>
+                </div>
+                <div class="service_img">
+                    <img class="img_responsive" src="../assets/img5.svg" alt="">
 
                 </div>
             </div>
