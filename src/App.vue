@@ -4,19 +4,19 @@
 
 <style>
 html {
-  max-width: 1500px;
+  max-width: 2000px;
   margin: 0 auto;
 }
 
 #app {
   font-family: Roboto, Helvetica, Arial, sans-serif;
-  background-image: url("./assets/bg_img.svg");
+  /* background-image: url("./assets/bg_img.svg");
   background-color: #ffffff;
   height: 1071px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  width: 100%;
+  width: 100%; */
 
 }
 

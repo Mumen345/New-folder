@@ -1,16 +1,11 @@
 <template>
     <div class="coontainer">
-        <div class="horizontal-scrolling-items">
+        <marquee width="100%" direction="left" behavior="">
 
             <div class="horizontal-scrolling-items__item">
                 <img src="../assets/Text.svg" alt="">
             </div>
-            <div class="horizontal-scrolling-items__item">
-                <img src="../assets/text2.svg" alt="">
-            </div>
-
-
-        </div>
+        </marquee>
 
     </div>
 </template>
@@ -39,21 +34,9 @@ export default {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 70px;
+    height: 50px;
     color: #ffffff;
     overflow: hidden;
-}
-
-.horizontal-scrolling-items {
-    display: flex;
-    font-size: 40px;
-    animation-name: infiniteScroll;
-    animation-duration: 10s;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
-}
-
-.horizontal-scrolling-items__item {
-    white-space: nowrap;
+    vertical-align: center;
 }
 </style>
